@@ -1,0 +1,12 @@
+lorem ipsum is text that let phocus on website structure first pending developer have time to deal with contents.
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+  quod, voluptates, quae, quos quibusdam dolorum quia nemo repudiandae
+  quidem voluptatum quas. Quisquam quod, voluptates, quae, quos
+  quibusdam dolorum quia nemo repudiandae quidem voluptatum quas.
+
+  prompt engineering;
+
+hey friend, i want to share my source code with you, the .cpp files and .h file. so wait let me share everything with you finished by replying me with "okay" after each file i send and i would tell you what i need your for in the source after the last one.
+
+so i want you to help me with why my half of texture body have to be out of the screen before collision ditection work and i dont want half body to out of the screen, how can i achieve that?

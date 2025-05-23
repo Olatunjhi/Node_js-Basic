@@ -1,0 +1,1 @@
+# how to read from file, write from file, delete from file and make directory basics.
